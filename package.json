@@ -1,0 +1,8 @@
+{
+  "name": "site",
+  "homepage": "https://github.com/italo-mauricio/cursos-guanabara.io",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module"
+ 
+}
